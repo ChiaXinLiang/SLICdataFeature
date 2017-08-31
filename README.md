@@ -1,5 +1,5 @@
 # SLICdataFeature
-First, change directory to MyProject/ProduceDataSet
+First, change directory to MyProject/ProduceDataSet  \\
 Second, run $: python3 run.py #to produce the MAT file and the data structure of MAT file was describe in run.py
 Third, change directory to MyProject
 Forth, run $: python3 trainNN.py #to produce the image feature in each layer
